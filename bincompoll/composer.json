@@ -1,0 +1,19 @@
+{
+    "name": "dresistance/api",
+    "autoload": {
+        "psr-4": {
+            "Dresistance\\Api\\": "src/",
+            "core\\":"core/",
+            "src\\":"src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stephen",
+            "email": "stephenarthor90@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/valitron": "^1.4"
+    }
+}
